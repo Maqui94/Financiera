@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Financiera</string>
+    <string name="calcular">Calcular\n</string>
+    <string name="calculadora_financiera">Calculadora financiera</string>
+    <string name="salario_bruto_anual">Salario Bruto Anual</string>
+    <string name="n_de_pagas">Nº de Pagas</string>
+    <string name="edad">Edad</string>
+    <string name="grupo_de_profesionalidad">Grupo de Profesionalidad</string>
+    <string name="grado_de_discapacidad">Grado de discapacidad</string>
+    <string name="estado_civil">Estado Civil</string>
+    <string name="n_de_hijos">Nº de Hijos</string>
+    <string name="calculo_finalizado">Calculo FINALIZADO</string>
+    <string name="posibles_deducciones">Posibles deducciones</string>
+    <string name="salario_neto">Salario Neto</string>
+    <string name="salario_bruto">Salario Bruto</string>
+    <string name="ahi_tienes_tu_c_lculo">Ahi tienes tu cálculo</string>
+    <string name="bienvenido_a_caja_rural_tu_caja_de_confianza">Bienvenido a Caja Rural tu Caja de Confianza</string>
+    <string name="escribe_aqui_lo_que_necesites_decirnos">Escribe aqui lo que necesites decirnos</string>
+    <string name="help">HELP</string>
+    <string name="contactanos">Contactanos</string>
+    <string name="retenci_n_irpf">Retención IRPF</string>
+    <string name="n_personas_a_cargo">Nº Personas a cargo</string>
+    <string-array name="estados_civiles">
+        <item>Casado</item>
+        <item>Divorciado</item>
+        <item>Soltero</item>
+        <item>Viudo</item>
+        <item>Separado</item>
+    </string-array>
+    <string-array name="discapacidades">
+        <item>Sin discapacidad</item>
+        <item>Menor del 65%(sin asistencia)</item>
+        <item>Menor del 65%(con asistencia)</item>
+        <item>Mayor del 65%</item>
+        <item>Separado</item>
+    </string-array>
+    <string-array name="grupoprofesional">
+        <item>Licenciados</item>
+        <item>Ingenieros técnico, peritos y ayudantes</item>
+        <item>Jefe administrativos y de taller</item>
+        <item>Ayudantes no titulados</item>
+        <item>Oficiales administrativos</item>
+        <item>Subalternos</item>
+        <item>Auxiliares administrativos</item>
+        <item>Oficiales de 1ª y 2ª</item>
+        <item>Oficiales de 3ª</item>
+        <item>Peones</item>
+        <item>Trabajadores menores de 18 años</item>
+        <item>Autónomosª</item>
+    </string-array>
+</resources>
